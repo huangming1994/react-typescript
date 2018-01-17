@@ -1,2 +1,2 @@
 # react-typescript
-To mater Zeng review
+To master Zeng review
